@@ -1,5 +1,6 @@
-**/.vs
-Adapter/bin
-Adapter/obj
-Chain/bin
-Chain/obj
+Adapter/.vs/
+Adapter/bin/
+Adapter/obj/
+Chain/.vs/
+Chain/bin/
+Chain/obj/
